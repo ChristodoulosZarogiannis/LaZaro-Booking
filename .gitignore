@@ -1,0 +1,9 @@
+### Java template
+# Compiled class file
+*.class
+/user/Client.java
+/user/Owner.java
+/user/*.*
+*.xml
+/.idea/
+/codemr
